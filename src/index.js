@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import '/Users/logandempsey/Desktop/capstone_project/src/components/styles/index.css';
+import '../src/components/styles/index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'react-mdl/extra/material.css';
