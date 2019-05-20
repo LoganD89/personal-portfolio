@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import '/Users/logandempsey/Desktop/capstone_project/src/components/styles/App.css';
-import '/Users/logandempsey/Desktop/capstone_project/src/components/styles/resume.css';
-import '/Users/logandempsey/Desktop/capstone_project/src/components/styles/about-me.css';
-import '/Users/logandempsey/Desktop/capstone_project/src/components/styles/projects.css';
-import '/Users/logandempsey/Desktop/capstone_project/src/components/styles/contact.css';
-import '/Users/logandempsey/Desktop/capstone_project/src/components/styles/nav-bar.css';
+import '../src/components/styles/App.css';
+import '../src/components/styles/resume.css';
+import '../src/components/styles/about-me.css';
+import '../src/components/styles/projects.css';
+import '../src/components/styles/contact.css';
+import '../src/components/styles/nav-bar.css';
 import { Layout, Header, Footer, Navigation, Drawer, Content} from 'react-mdl';
 import Main from './components/main';
 import { Link } from 'react-router-dom';
