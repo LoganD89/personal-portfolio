@@ -1,0 +1,11 @@
+        <div className="main">
+          <div className="header">
+            <h1>Resume</h1>
+            <p>Here is my resume(click link to view the full resume)</p>
+          </div>
+          <div className="image">
+            <a href="https://docs.google.com/document/d/1fSy6dtYK6He9OfMdXk7T_Yrw3HH3iJwOZmA5eRVeuvk/edit?usp=sharing">
+              <img src="https://ibb.co/LhH913h" alt="fries" border="10" />
+            </a>
+          </div>
+        </div>
