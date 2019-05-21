@@ -6,6 +6,7 @@ class AboutMe extends Component {
     return(
       <div className="header">
         <h1>About Page</h1>
+        <p></p>
       </div>
     )
   }

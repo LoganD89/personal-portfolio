@@ -1,1 +1,13 @@
 /* About Me CSS */
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.header h1 {
+    font-size: 50px;
+}
+
+.header p {
+    font-size: 25px;
+}
