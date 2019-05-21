@@ -10,7 +10,7 @@ class ContactForm extends Component{
         const message = document.getElementById('message').value;
         axios({
             method: "POST", 
-            url:"http://localhost:3002/send", 
+            url:"https://lrd-portfolio.herokuapp.com/contact/SEND", 
             data: {
                 name: name,   
                 email: email,  
